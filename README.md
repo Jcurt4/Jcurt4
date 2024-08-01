@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Jcurt4
-- 👀 I’m interested in learning programing for back end work.  
+- 👀 I’m interested in learning programing.  
 - 🌱 I’m currently learning python.  
 - 💞️ I’m looking to collaborate on nothing at the moment. I feel I need to become more profecient before I take on projects.  
 - 📫 How to reach me discord.  knllafox
